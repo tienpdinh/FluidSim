@@ -1,2 +1,2 @@
 # Fluid Simulation
-This is the source code for [Fluid Simulation](https://tienpdinh.com/projects/fluid)
+This is the source code for [Fluid Simulation](https://tienpdinh.com/project/fluid)
